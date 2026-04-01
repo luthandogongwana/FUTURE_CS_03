@@ -45,7 +45,7 @@ Read-only security analysis - no exploitation attempts
 
 ## Report Contents
 - [Full Security Analysis Report](API-Security-Risk-Analysis-Report.pdf)
-- [Screenshots](screenshots/) - Evidence of all tests performed
+- [Screenshots](Evidence/) - Evidence of all tests performed
 
 ## Testing Evidence
 All tests were conducted ethically within the scope of public/demo APIs:

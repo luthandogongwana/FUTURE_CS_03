@@ -45,7 +45,7 @@ Read-only security analysis - no exploitation attempts
 
 ## Report Contents
 - [Full Security Analysis Report](API-Security-Risk-Analysis-Report.pdf)
-- [Screenshots](Evidence/) - Evidence of all tests performed
+- [Screenshots](https://github.com/luthandogongwana/FUTURE_CS_03/tree/main/Evidence.) - Evidence of all tests performed
 
 ## Testing Evidence
 All tests were conducted ethically within the scope of public/demo APIs:

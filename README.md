@@ -1,12 +1,12 @@
 # API Security Risk Analysis Report
 
 ## Project Overview
-This project is a comprehensive API security risk assessment conducted as part of a cybersecurity training task. The assessment identifies and documents security vulnerabilities in a public API, following industry best practices and OWASP API Security Top 10 guidelines.
+This project is a comprehensive API security risk assessment conducted as part of a cybersecurity training task. The assessment identifies and documents security vulnerabilities in a public API, if there are any mistake, don't hesitate helping me out.
 
 ## Target API
 - **Name:** JSONPlaceholder
 - **URL:** https://jsonplaceholder.typicode.com
-- **Type:** Fake REST API for testing
+- **Type:** it a Fake REST API for testing
 - **Documentation:** https://jsonplaceholder.typicode.com
 
 ## Tools Used
@@ -45,7 +45,7 @@ Read-only security analysis - no exploitation attempts
 
 ## Report Contents
 - [Full Security Analysis Report](API-Security-Risk-Analysis-Report.pdf)
-- [Screenshots](https://github.com/luthandogongwana/FUTURE_CS_03/tree/main/Evidence.) - Evidence of all tests performed
+- [Screenshots/Evidence](https://github.com/luthandogongwana/FUTURE_CS_03/tree/main/Evidence.) - Evidence of all tests performed
 
 ## Testing Evidence
 All tests were conducted ethically within the scope of public/demo APIs:
